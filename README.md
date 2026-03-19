@@ -7,8 +7,7 @@ I spend most of my time writing Kotlin, shipping Android libraries, and thinking
 ## What I'm working on
 
 - [WormaCeptor](https://github.com/azikar24/WormaCeptor) — Android debugging toolkit: network inspector, performance monitor, SQLite browser, leak detector, and 20+ more tools. Clean Architecture, Jetpack Compose, zero release build risk.
-- [KuwaitPrayerTimes](https://github.com/azikar24/KuwaitPrayerTimes) — Prayer times library for Kuwait
-- [MonthYearPicker](https://github.com/azikar24/MonthYearPicker) — Android month/year date picker
+- [KaramChalet](https://karamchalet.com) — Full-stack chalet booking platform built with Next.js, TypeScript, and Tailwind CSS. Handles reservations, availability calendars, and payments.
 
 ## Tech
 
