@@ -29,4 +29,5 @@ I spend most of my time writing Kotlin, shipping Android libraries, and thinking
 ## Links
 
 - [Blog](https://azikar24.com) — Writing about Android, architecture, and developer tools
-- [LinkedIn](https://www.linkedin.com/in/azikar24/)
+- [LinkedIn](https://www.linkedin.com/in/abdulaziz-karam-02b78b22/)
+- [Email](mailto:azikar24@gmail.com)
